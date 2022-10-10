@@ -1,14 +1,3 @@
-/* Name: Mya Saint-Louis
-Date: 10/06/2022
-Section: 0015
-Assignment: Module 6 Playing wit Numbers Program
-Due Date: 10/09/2022
-About this project: A menu-driven program that allows the user to enter in int n
-and int k to compute combinations or permutations. When user chooses 3, the 
-program ends.
-Assumptions: User enters in valid integer input.
-All work below was performed by Mya Saint-Louis */
-
 #include <iostream>
 #include <iomanip>
 #include <cmath>
